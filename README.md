@@ -8,15 +8,6 @@
 
 <br/><br/>
 
-<a href="https://dhanushkumar-3.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-%23020617?style=for-the-badge&logo=arrowup&logoColor=67e8f9"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/dhanush-kumar3">
-<img src="https://img.shields.io/badge/CONNECT-%23020617?style=for-the-badge&logo=linkedin&logoColor=818cf8"/>
-</a>
 
 </div>
 
