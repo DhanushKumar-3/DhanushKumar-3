@@ -22,19 +22,7 @@
 
 <br/><br/>
 
----
-<div align="center">
 
-# DHANUSH KUMAR
-
-### BUILD • LEARN • TEACH • INNOVATE
-
-**Full-Stack Developer · AI Full Stack Trainer**
-
-Currently building at **Career Ladder**
-
-I build full-stack applications, integrate AI/LLMs into real-world systems,<br>
-and teach developers how the complete stack fits together.
 
 <p>
 <a href="https://dhanushkumar-3.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0B1020?style=for-the-badge&logo=googlechrome&logoColor=00D9FF"></a>
