@@ -1,5 +1,30 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:0f172a,65:312e81,100:06b6d4&text=DHANUSH%20KUMAR&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%E2%80%94%20AI%20%E2%80%94%20EDUCATOR&descAlignY=62&descSize=18&animation=fadeIn"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=2500&pause=900&color=67E8F9&center=true&vCenter=true&width=800&lines=I+build+digital+products.;I+explore+intelligent+systems.;I+teach+developers+to+build.;I+turn+ideas+into+working+software."/>
+
+<br/><br/>
+
+<a href="https://dhanushkumar-3.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-%23020617?style=for-the-badge&logo=arrowup&logoColor=67e8f9"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/dhanush-kumar3">
+<img src="https://img.shields.io/badge/CONNECT-%23020617?style=for-the-badge&logo=linkedin&logoColor=818cf8"/>
+</a>
+
+</div>
+
+<br/><br/>
+
+---
+<div align="center">
+
 # DHANUSH KUMAR
 
 ### BUILD • LEARN • TEACH • INNOVATE
