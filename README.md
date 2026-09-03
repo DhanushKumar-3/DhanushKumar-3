@@ -1,51 +1,24 @@
-<!-- ========================================================= -->
-<!--                    DHANUSH KUMAR PROFILE                 -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<!-- HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=220&section=header&text=DHANUSH%20KUMAR&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20FULL%20STACK%20TRAINER&descAlignY=60&descSize=18" width="100%"/>
-
-<br/>
-
-<h3>
-BUILD • LEARN • TEACH • INNOVATE
-</h3>
-
-<p>
-<b>Full-Stack Developer</b> &nbsp;•&nbsp;
-<b>AI Full Stack Trainer</b> &nbsp;•&nbsp;
-<b>Backend Developer</b> &nbsp;•&nbsp;
-<b>AI / LLM Enthusiast</b>
-</p>
-
-<p>
-Building modern applications, exploring AI-powered systems,<br/>
-and helping developers understand how technology fits together.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:111827,65:312e81,100:06b6d4&text=DHANUSH%20KUMAR&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=FULL-STACK%20%E2%80%A2%20AI%20%E2%80%A2%20DEVELOPER%20EDUCATOR&descAlignY=58&descSize=17&animation=fadeIn"/>
 
 <br/>
 
 <a href="https://dhanushkumar-3.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-0f172a?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-020617?style=for-the-badge&logo=googlechrome&logoColor=67e8f9"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/dhanush-kumar3">
-<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=818cf8"/>
 </a>
-
+&nbsp;
 <a href="mailto:dhanushkumar.v03@gmail.com">
-<img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/dhanushkumar-3">
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONTACT-020617?style=for-the-badge&logo=gmail&logoColor=f472b6"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dhanushkumar-3&label=PROFILE%20VIEWS&color=312e81&style=flat-square"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=750&lines=Building+Full-Stack+Applications;Exploring+AI+%26+LLM+Systems;Teaching+Developers+Through+Real+Projects;Turning+Ideas+Into+Working+Software"/>
 
 </div>
 
@@ -53,162 +26,52 @@ and helping developers understand how technology fits together.
 
 ---
 
-<!-- ========================================================= -->
-<!--                        ABOUT                              -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-## 🧊 ABOUT ME
+# `01` — ENGINEERING IDENTITY
+
+### BUILD · LEARN · TEACH · INNOVATE
 
 </div>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 👨‍💻 Who I Am
-
-I'm **Dhanush Kumar**, a Full-Stack Developer and AI Full Stack Trainer focused on building practical, scalable and intelligent applications.
-
-I work across the complete development lifecycle:
-
-```text
-Frontend
-   ↓
-REST APIs
-   ↓
-Backend
-   ↓
-Database
-   ↓
-AI / LLM
-   ↓
-Testing
-   ↓
-Deployment
-````
-
-My development approach is:
-
-> **Learn deeply → Build practically → Test properly → Teach clearly → Improve continuously**
-
-I enjoy turning complex technologies into practical systems that developers can understand and build themselves.
-
-</td>
-
-<td width="40%" valign="top">
-
-### ⚡ Current Identity
-
-```text
-┌─────────────────────────┐
-│                         │
-│  🏗️  BUILD              │
-│  Full-Stack Systems     │
-│                         │
-│  🧠  LEARN              │
-│  AI / LLM / RAG         │
-│                         │
-│  🎓  TEACH              │
-│  Developer Training     │
-│                         │
-│  🚀  INNOVATE           │
-│  AI-Powered Software    │
-│                         │
-└─────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
----
-
-<!-- ========================================================= -->
-
-<!--                    WHAT I DO                              -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🚀 WHAT I DO
-
-</div>
-
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td width="33%" align="center">
 
-### 🏗️
+<img src="https://img.icons8.com/fluency/96/source-code.png"/>
 
 ### BUILD
 
-Full-stack applications
+I build practical full-stack applications with modern frontend, backend and API architectures.
 
-REST APIs
-
-Backend systems
-
-AI-powered applications
+`React` `Django` `FastAPI`
 
 </td>
 
-<td align="center" width="25%">
+<td width="33%" align="center">
 
-### 🧠
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/>
 
-### LEARN
+### EXPLORE
 
-Generative AI
+I experiment with AI systems and explore how LLMs can become part of real software products.
 
-LLMs
-
-RAG
-
-Embeddings
-
-AI Architecture
+`LLM` `RAG` `Embeddings`
 
 </td>
 
-<td align="center" width="25%">
+<td width="33%" align="center">
 
-### 🎓
+<img src="https://img.icons8.com/fluency/96/training.png"/>
 
 ### TEACH
 
-Python
+I turn the technologies I learn into practical development lessons and projects.
 
-Java
-
-JavaScript
-
-React
-
-SQL • DSA
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧪
-
-### ENGINEER
-
-Testing
-
-Debugging
-
-API Design
-
-Clean Architecture
-
-Problem Solving
+`Python` `Java` `JavaScript`
 
 </td>
 
@@ -217,181 +80,121 @@ Problem Solving
 
 <br/>
 
----
-
-<!-- ========================================================= -->
-
-<!--                    TECH STACK                             -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-## 🛠️ TECHNOLOGY ECOSYSTEM
+> **I don't just learn technologies. I build with them, understand how they work, and teach others how to use them.**
 
 </div>
 
 <br/>
 
+---
+
 <div align="center">
 
-### 🐍 Backend
+# `02` — TECHNOLOGY UNIVERSE
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,java" />
+</div>
 
-<br/><br/>
+<br/>
 
-### ⚛️ Frontend
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚛️ FRONTEND
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 
-<br/><br/>
+```text
+HTML
+CSS
+JavaScript
+React
+Vite
+````
 
-### 🗄️ Database
+</td>
+
+<td width="50%" valign="top">
+
+### 🐍 BACKEND
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,java" />
+
+```text
+Python
+Django
+Django REST Framework
+FastAPI
+Java
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ DATA
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
-<br/><br/>
+```text
+MongoDB
+MySQL
+PostgreSQL
+Database Design
+```
 
-### 🤖 AI / LLM
+</td>
 
-<img src="https://skillicons.dev/icons?i=python" />
+<td width="50%" valign="top">
 
-<br/>
+### 🤖 AI ENGINEERING
 
-`Gemini API`   `Generative AI`   `LLMs`   `RAG`   `Embeddings`
+```text
+Gemini API
+Generative AI
+Large Language Models
+RAG
+Embeddings
+Document AI
+AI Applications
+```
 
-<br/><br/>
+</td>
+</tr>
 
-### 🔧 Tools & Engineering
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 ENGINEERING
+
+```text
+REST APIs
+Software Testing
+Unit Testing
+Debugging
+DSA
+Problem Solving
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ TOOLING
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 
-</div>
-
-<br/>
-
----
-
-<!-- ========================================================= -->
-
-<!--                    AI ARCHITECTURE                        -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🧠 AI ENGINEERING LAB
-
-### From User Interaction → Intelligent Response
-
-</div>
-
-<br/>
-
 ```text
-                         ┌───────────────────┐
-                         │       USER        │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │   REACT / VITE    │
-                         │    FRONTEND       │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │     REST API      │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │  DJANGO / FASTAPI │
-                         │     BACKEND       │
-                         └─────────┬─────────┘
-                                   │
-                    ┌──────────────┴──────────────┐
-                    │                             │
-                    ▼                             ▼
-          ┌──────────────────┐          ┌──────────────────┐
-          │    DATABASE      │          │    AI / LLM      │
-          │                  │          │                  │
-          │ MongoDB          │          │ Gemini           │
-          │ MySQL            │          │ RAG              │
-          │ PostgreSQL       │          │ Embeddings       │
-          └──────────────────┘          └─────────┬────────┘
-                                                  │
-                                                  ▼
-                                        ┌──────────────────┐
-                                        │    RESPONSE      │
-                                        └──────────────────┘
+Git
+GitHub
+Docker
+Postman
+VS Code
 ```
-
-<br/>
-
----
-
-<!-- ========================================================= -->
-
-<!--                 FEATURED PROJECT                           -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-## ⭐ FEATURED PROJECT
-
-</div>
-
-<table>
-<tr>
-<td width="100%">
-
-# 🎓 AI-Powered Learning Management System
-
-### `React + Vite` • `Django REST Framework` • `MongoDB` • `AI / LLM`
-
-A modern learning platform concept designed around role-based access, structured learning and AI-assisted educational experiences.
-
-### Core Direction
-
-```text
-                    AI-POWERED LMS
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-          ▼              ▼              ▼
-       STUDENT        INSTRUCTOR       ADMIN
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                         ▼
-                  DJANGO REST API
-                         │
-              ┌──────────┴──────────┐
-              ▼                     ▼
-           MONGODB               AI / LLM
-              │                     │
-              └──────────┬──────────┘
-                         ▼
-                  LEARNING SYSTEM
-```
-
-### 🔑 Planned Capabilities
-
-* Authentication & Role-Based Access Control
-* Student and Instructor workflows
-* Course management
-* Lessons and learning content
-* Assessments
-* Progress tracking
-* Analytics
-* AI-assisted learning
-* Intelligent content interaction
-* REST API architecture
-
-**Status:** 🚧 In Progress
 
 </td>
 </tr>
@@ -401,55 +204,140 @@ A modern learning platform concept designed around role-based access, structured
 
 ---
 
-<!-- ========================================================= -->
+<div align="center">
 
-<!--                    REAL PROJECTS                           -->
+# `03` — THE ARCHITECTURE
 
-<!-- ========================================================= -->
+### How I think about modern applications
+
+</div>
+
+<br/>
+
+```text
+                         ┌─────────────────────┐
+                         │        USER         │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                     ┌──────────────────────────┐
+                     │       REACT + VITE       │
+                     │        FRONTEND          │
+                     └────────────┬─────────────┘
+                                  │
+                                  │ HTTP / JSON
+                                  ▼
+                     ┌──────────────────────────┐
+                     │       REST API           │
+                     └────────────┬─────────────┘
+                                  │
+                                  ▼
+                     ┌──────────────────────────┐
+                     │    DJANGO / FASTAPI      │
+                     │        BACKEND           │
+                     └────────────┬─────────────┘
+                                  │
+                    ┌─────────────┴─────────────┐
+                    │                           │
+                    ▼                           ▼
+          ┌─────────────────┐        ┌─────────────────┐
+          │    DATABASE     │        │    AI ENGINE    │
+          │                 │        │                 │
+          │ MongoDB         │        │ LLM             │
+          │ MySQL           │        │ RAG             │
+          │ PostgreSQL      │        │ Embeddings      │
+          └─────────────────┘        └─────────────────┘
+                    │                           │
+                    └─────────────┬─────────────┘
+                                  ▼
+                         ┌──────────────────┐
+                         │    RESPONSE      │
+                         └──────────────────┘
+```
+
+<br/>
 
 <div align="center">
 
-## 💻 PROJECT SHOWCASE
+`FRONTEND` → `API` → `BACKEND` → `DATA + AI` → `RESPONSE`
 
 </div>
+
+<br/>
+
+---
+
+<div align="center">
+
+# `04` — FEATURED WORK
+
+</div>
+
+<br/>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 📦 Inventory Management
+# 🤖 AI / LLM
 
-**Inventory & POS Management System for Auto Spare Parts Shops**
+### PDF-Based LLM Chatbot
 
-A business-oriented inventory and point-of-sale application designed for managing products and shop operations.
+A document-aware chatbot concept that allows users to interact with PDF knowledge using an LLM-based architecture.
 
-**Technology**
+**Focus**
 
-`Python`
+```text
+PDF
+ ↓
+Text Extraction
+ ↓
+Embeddings
+ ↓
+Vector Search
+ ↓
+LLM
+ ↓
+Answer
+```
 
-<br/>
+**Repository**
 
-<a href="https://github.com/dhanushkumar-3/InventoryManagement">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-312e81?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/dhanushkumar-3/PDF-based-chatbot-application-Using-LLM">
+
+`VIEW SOURCE →`
+
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🛒 Multi-Vendor E-Commerce
+# 📄 AI + WEB
 
-A multi-vendor e-commerce application exploring product, vendor and shopping workflows.
+### PDF Chatbot
 
-**Technology**
+A web-based PDF chatbot exploring the combination of a Python backend, React frontend and AI-powered document interaction.
 
-`JavaScript`
+**Stack**
 
-<br/>
+```text
+React
+ +
+Flask
+ +
+AI
+ +
+PDF Processing
+```
 
-<a href="https://github.com/dhanushkumar-3/multi-vendor-ecommerce">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-312e81?style=for-the-badge&logo=github&logoColor=white"/>
+**Repository**
+
+<a href="https://github.com/dhanushkumar-3/PDF---CHAT-BOT-Using-Flask-and-React">
+
+`VIEW SOURCE →`
+
 </a>
 
 </td>
@@ -460,206 +348,158 @@ A multi-vendor e-commerce application exploring product, vendor and shopping wor
 
 <td width="50%" valign="top">
 
-## ☕ College Management System
+# 📦 BUSINESS SYSTEM
 
-A Java-based college management project focused on managing academic-related application workflows.
+### Inventory Management
+
+Inventory and POS management system designed for auto spare-parts businesses.
+
+**Focus**
+
+```text
+Products
+Inventory
+POS
+Business Workflow
+```
+
+**Repository**
+
+<a href="https://github.com/dhanushkumar-3/InventoryManagement">
+
+`VIEW SOURCE →`
+
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+# 🛒 FULL STACK
+
+### Multi-Vendor E-Commerce
+
+An e-commerce project exploring multi-vendor shopping workflows and application architecture.
+
+**Technology**
+
+```text
+JavaScript
+Frontend
+Application Logic
+```
+
+**Repository**
+
+<a href="https://github.com/dhanushkumar-3/multi-vendor-ecommerce">
+
+`VIEW SOURCE →`
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+# ☕ JAVA
+
+### College Management System
+
+A Java-based application exploring academic management workflows and object-oriented application development.
 
 **Technology**
 
 `Java`
 
-<br/>
-
 <a href="https://github.com/dhanushkumar-3/college-management-system-using-java">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-312e81?style=for-the-badge&logo=github&logoColor=white"/>
+
+`VIEW SOURCE →`
+
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📄 PDF Chatbot
+# 🏥 ML + IoT
 
-A chatbot application designed around interacting with PDF content using AI.
+### Smart Health Monitoring
 
-**Technology**
-
-`Python` `Flask` `React`
-
-<br/>
-
-<a href="https://github.com/dhanushkumar-3/PDF---CHAT-BOT-Using-Flask-and-React">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-312e81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🤖 PDF-Based LLM Chatbot
-
-An AI chatbot designed to answer questions based on PDF documents using an LLM-powered approach.
+A machine-learning and IoT-oriented project focused on health monitoring concepts.
 
 **Technology**
 
-`LLM` `LangChain` `FAISS` `Embeddings`
-
-<br/>
-
-<a href="https://github.com/dhanushkumar-3/PDF-based-chatbot-application-Using-LLM">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-312e81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🏥 Smart Health Monitoring
-
-A machine-learning and IoT-oriented project focused on health monitoring.
-
-**Technology**
-
-`Machine Learning` `IoT` `HTML`
-
-<br/>
+`Machine Learning` `IoT`
 
 <a href="https://github.com/dhanushkumar-3/Smart-Health-Monitoring-Using-ML-and-IoT">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-312e81?style=for-the-badge&logo=github&logoColor=white"/>
+
+`VIEW SOURCE →`
+
 </a>
 
 </td>
 
 </tr>
+
 </table>
 
 <br/>
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                    AI LAB                                -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-## 🤖 AI / LLM EXPLORATION
+# `05` — AI LAB
 
-</div>
-
-<table>
-<tr>
-
-<td align="center" width="20%">
-
-### 🧠
-
-**LLMs**
-
-Large Language Models
-
-</td>
-
-<td align="center" width="20%">
-
-### 🔍
-
-**RAG**
-
-Retrieval-Augmented Generation
-
-</td>
-
-<td align="center" width="20%">
-
-### 📄
-
-**DOCUMENT AI**
-
-PDF & Knowledge Systems
-
-</td>
-
-<td align="center" width="20%">
-
-### 🧬
-
-**EMBEDDINGS**
-
-Semantic Search
-
-</td>
-
-<td align="center" width="20%">
-
-### ✨
-
-**GEN AI**
-
-AI Applications
-
-</td>
-
-</tr>
-</table>
+### Exploring intelligent software systems
 
 <br/>
 
-### AI Application Flow
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=700&lines=Retrieval-Augmented+Generation;Document-Aware+Applications;LLM+Integration;Semantic+Search;AI-Powered+Learning+Systems"/>
+
+</div>
+
+<br/>
 
 ```text
-                 ┌─────────────────┐
-                 │   USER QUERY    │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ DOCUMENT / DATA │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │   EMBEDDINGS    │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ VECTOR SEARCH   │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │      LLM        │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ INTELLIGENT     │
-                 │    RESPONSE     │
-                 └─────────────────┘
+                     USER QUESTION
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │  RETRIEVER  │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │   VECTOR    │
+                    │    SEARCH   │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │     LLM     │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │   CONTEXT   │
+                    │   RESPONSE  │
+                    └─────────────┘
 ```
 
 <br/>
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                    TEACHING                               -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-## 🎓 TEACHING LAB
+# `06` — AI-POWERED LMS
 
-### Building Developers, Not Just Applications.
+### A system I'm building toward
 
 </div>
 
@@ -668,37 +508,114 @@ AI Applications
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td width="65%" valign="top">
+
+## 🎓 Learning Management System
+
+A modern LMS concept combining full-stack architecture with AI-assisted learning.
+
+### Core architecture
+
+```text
+React + Vite
+      ↓
+Django REST Framework
+      ↓
+MongoDB
+      ↓
+AI / LLM Layer
+```
+
+### Platform Direction
+
+* 🔐 Authentication
+* 🛡️ Role-Based Access Control
+* 👨‍🎓 Student workflows
+* 👨‍🏫 Instructor workflows
+* 📚 Courses & Lessons
+* 📝 Assessments
+* 📊 Progress & Analytics
+* 🤖 AI-assisted learning
+
+</td>
+
+<td width="35%" align="center">
+
+### SYSTEM
+
+```text
+┌─────────────┐
+│    ADMIN    │
+└──────┬──────┘
+       │
+┌──────▼──────┐
+│  INSTRUCTOR │
+└──────┬──────┘
+       │
+┌──────▼──────┐
+│   STUDENT   │
+└──────┬──────┘
+       │
+┌──────▼──────┐
+│   AI CORE   │
+└─────────────┘
+```
+
+### STATUS
+
+`🚧 BUILDING`
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+# `07` — TEACHING LAB
+
+### Building developers through practical engineering
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="20%">
 
 🐍
 
-### PYTHON
+### Python
 
 Programming
-Backend
 Django
 APIs
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ☕
 
-### JAVA
+### Java
 
-Core Java
 OOP
 Methods
 DSA
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ⚛️
 
-### WEB
+### Web
 
 HTML
 CSS
@@ -707,71 +624,28 @@ React
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 🗄️
 
-### DATA
+### SQL
 
-SQL
 MySQL
-MongoDB
-Database Design
+Queries
+Joins
+Database
 
 </td>
 
-</tr>
-
-<tr>
-
-<td align="center" width="25%">
-
-🧩
-
-### DSA
-
-Arrays
-Strings
-Recursion
-Problem Solving
-
-</td>
-
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 🧪
 
-### TESTING
+### Testing
 
 Unit Testing
-Software Testing
 Debugging
-
-</td>
-
-<td align="center" width="25%">
-
-🔗
-
-### BACKEND
-
-REST APIs
-Django
-FastAPI
-Architecture
-
-</td>
-
-<td align="center" width="25%">
-
-🤖
-
-### AI
-
-LLMs
-RAG
-Gemini
-AI Applications
+Quality
 
 </td>
 
@@ -780,45 +654,33 @@ AI Applications
 
 <br/>
 
+<div align="center">
+
 ```text
-              ┌──────────────────────┐
-              │        LEARN         │
-              └──────────┬───────────┘
-                         │
-                         ▼
-              ┌──────────────────────┐
-              │        BUILD         │
-              └──────────┬───────────┘
-                         │
-                         ▼
-              ┌──────────────────────┐
-              │        TEST          │
-              └──────────┬───────────┘
-                         │
-                         ▼
-              ┌──────────────────────┐
-              │        TEACH         │
-              └──────────┬───────────┘
-                         │
-                         ▼
-              ┌──────────────────────┐
-              │       IMPROVE        │
-              └──────────────────────┘
+LEARN
+  │
+  ▼
+BUILD
+  │
+  ▼
+TEST
+  │
+  ▼
+TEACH
+  │
+  ▼
+IMPROVE
 ```
+
+</div>
 
 <br/>
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                CURRENTLY EXPLORING                         -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-## 🔭 CURRENTLY EXPLORING
+# `08` — ENGINEERING PRINCIPLES
 
 </div>
 
@@ -827,115 +689,51 @@ AI Applications
 <table>
 <tr>
 
-<td align="center">
+<td width="25%" align="center">
 
-🔍
+### 01
 
-**RAG Systems**
+## 🧩
 
-</td>
+**SIMPLICITY**
 
-<td align="center">
-
-📄
-
-**Document-Aware AI**
+Make complex systems understandable.
 
 </td>
 
-<td align="center">
+<td width="25%" align="center">
 
-🧠
+### 02
 
-**LLM Applications**
+## 🏗️
 
-</td>
+**ARCHITECTURE**
 
-<td align="center">
-
-🏛️
-
-**AI Architecture**
+Think beyond individual features.
 
 </td>
 
-<td align="center">
+<td width="25%" align="center">
 
-🔗
+### 03
 
-**REST API Design**
+## 🧪
 
-</td>
+**QUALITY**
 
-</tr>
-</table>
-
-<br/>
-
----
-
-<!-- ========================================================= -->
-
-<!--                 ENGINEERING MINDSET                        -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🏗️ ENGINEERING MINDSET
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎯 I Focus On
-
-```text
-✓ Clean architecture
-
-✓ Understandable code
-
-✓ Practical solutions
-
-✓ API-first thinking
-
-✓ Database design
-
-✓ Testing & debugging
-
-✓ Problem solving
-
-✓ Continuous learning
-```
+Build → Test → Debug → Improve.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" align="center">
 
-### 🔥 Development Philosophy
+### 04
 
-```text
-Don't just use technology.
+## 🧠
 
-Understand it.
+**LEARNING**
 
-Don't just build features.
-
-Understand the system.
-
-Don't just learn concepts.
-
-Build with them.
-
-Don't just teach syntax.
-
-Teach how everything connects.
-```
+Understand the "why", not just the "how".
 
 </td>
 
@@ -946,25 +744,19 @@ Teach how everything connects.
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                     GITHUB STATS                           -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-## 📊 GITHUB ANALYTICS
+# `09` — GITHUB SIGNAL
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhanushkumar-3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=CBD5E1" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhanushkumar-3&show_icons=true&hide_border=true&bg_color=0B1120&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&count_private=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkumar-3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=CBD5E1" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkumar-3&layout=compact&hide_border=true&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1" width="40%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushkumar-3&theme=tokyonight&hide_border=true&background=0D1117&ring=7DD3FC&fire=A78BFA&currStreakLabel=7DD3FC" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushkumar-3&hide_border=true&background=0B1120&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B" width="65%"/>
 
 </div>
 
@@ -972,17 +764,13 @@ Teach how everything connects.
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                   CONTRIBUTION                            -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-## 🐍 CONTRIBUTION JOURNEY
+# `10` — CONTRIBUTION MATRIX
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<br/>
+
+<img src="https://github.com/dhanushkumar-3/dhanushkumar-3/blob/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
 
@@ -990,50 +778,32 @@ Teach how everything connects.
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                     CONNECT                               -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-## 🌐 LET'S CONNECT
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:312e81,100:06b6d4&height=2&section=header" width="90%"/>
 
-<p>
-Whether it's building something interesting,<br/>
-discussing software architecture, AI, or developer education —
 <br/>
-<b>I'm always open to meaningful technical conversations.</b>
-</p>
+
+# LET'S BUILD THE NEXT THING.
+
+### Software • AI • Education • Ideas
 
 <br/>
 
 <a href="https://dhanushkumar-3.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-312e81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-06B6D4?style=for-the-badge&labelColor=020617"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dhanush-kumar3">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-312e81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-818CF8?style=for-the-badge&labelColor=020617"/>
 </a>
 
 <a href="mailto:dhanushkumar.v03@gmail.com">
-<img src="https://img.shields.io/badge/📧%20EMAIL-312e81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/✉%20EMAIL-F472B6?style=for-the-badge&labelColor=020617"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/dhanushkumar-3">
-<img src="https://img.shields.io/badge/⭐%20Explore%20My%20Repositories-0f172a?style=for-the-badge&logo=github"/>
-</a>
-
-<br/><br/>
-
-### BUILD • LEARN • TEACH • INNOVATE
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,45:312e81,75:111827,100:020617&height=160&section=footer"/>
 
 </div>
-
